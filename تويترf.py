@@ -170,7 +170,7 @@ def aras1_check(email):
      Zeus جابلك حساب تويتر 
 Hit : {aras1}  
  Email : {email}  
- Dev : R7Aih1@
+ Dev : @R7_36
 Channel : @R7Aih1
 Zeus━━━━━━━━━━━━Zeus━━━ .
             '''
